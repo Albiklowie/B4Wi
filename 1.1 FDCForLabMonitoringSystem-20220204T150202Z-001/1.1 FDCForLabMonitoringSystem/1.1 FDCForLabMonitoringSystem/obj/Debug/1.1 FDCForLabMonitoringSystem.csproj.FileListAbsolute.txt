@@ -1,0 +1,638 @@
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\1.1 FDCForLabMonitoringSystem.exe.config
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\1.1 FDCForLabMonitoringSystem.exe
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\1.1 FDCForLabMonitoringSystem.pdb
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csprojAssemblyReference.cache
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Form1.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Properties.Resources.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csproj.GenerateResource.cache
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csproj.CoreCompileInputs.cache
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.exe
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.pdb
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.LoginPage.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.MainMenu.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.SecondScreen.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.CV.xml
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.Util.xml
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Registration.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csproj.CopyComplete
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Class_Schedule.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\MySql.Data.dll
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\MySql.Data.xml
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Properties.Enrollment_list.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.System_Users.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Add_User.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.AddSubject.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Resources.ADDSubjectsMain.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\THESIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Reports.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\1.1 FDCForLabMonitoringSystem.exe.config
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\1.1 FDCForLabMonitoringSystem.exe
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\1.1 FDCForLabMonitoringSystem.pdb
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\MySql.Data.dll
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.CV.xml
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.Util.xml
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\MySql.Data.xml
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csprojAssemblyReference.cache
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Add_User.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.AddSubject.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Class_Schedule.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Form1.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.LoginPage.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.MainMenu.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Properties.Enrollment_list.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Properties.Resources.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Reports.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Resources.ADDSubjectsMain.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.SecondScreen.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.System_Users.resources
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csproj.GenerateResource.cache
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csproj.CoreCompileInputs.cache
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csproj.CopyComplete
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.exe
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.pdb
+C:\Users\Stephen Lumbre\Documents\Visual Studio 2017\Back Up\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RegistrationNew.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\1.1 FDCForLabMonitoringSystem.exe.config
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\1.1 FDCForLabMonitoringSystem.exe
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\1.1 FDCForLabMonitoringSystem.pdb
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Google.Protobuf.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.CV.UI.xml
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.Util.xml
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\MySql.Data.xml
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csprojAssemblyReference.cache
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Add_User.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.AddSubject.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Class_Schedule.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Form1.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.LoginPage.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.MainMenu.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Properties.Enrollment_list.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Properties.Resources.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RegistrationNew.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Reports.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Resources.ADDSubjectsMain.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.SecondScreen.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.System_Users.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csproj.GenerateResource.cache
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csproj.CoreCompileInputs.cache
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csproj.CopyComplete
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.exe
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.pdb
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.MiscTabForms.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.EnrollmentList.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\concrt140.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\cvextern.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\msvcp140.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\vcruntime140.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\concrt140.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\cvextern.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\msvcp140.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\vcruntime140.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.CV.UI.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\haarcascade_frontalface_default.xml
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.Util.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ZedGraph.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ZedGraph.xml
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\ZedGraph.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\ZedGraph.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\ZedGraph.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\hu\ZedGraph.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\ZedGraph.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\ZedGraph.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\ZedGraph.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\ZedGraph.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\sk\ZedGraph.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\sv\ZedGraph.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\tr\ZedGraph.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RegisterCaptureImage.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.exe.config
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.CV.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.CV.ML.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.CV.xml
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RegisterDetect.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RecogniseFace.resources
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\concrt140.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\cvextern.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\msvcp140.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\vcruntime140.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\concrt140.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\cvextern.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\msvcp140.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\vcruntime140.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\haarcascade_frontalface_default.xml
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\1.1 FDCForLabMonitoringSystem.exe.config
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\1.1 FDCForLabMonitoringSystem.exe
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\1.1 FDCForLabMonitoringSystem.pdb
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\MySql.Data.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ZedGraph.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Google.Protobuf.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.CV.xml
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.CV.UI.xml
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.Util.xml
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\MySql.Data.xml
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ZedGraph.xml
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\ZedGraph.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\ZedGraph.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\ZedGraph.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\hu\ZedGraph.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\ZedGraph.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\ZedGraph.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\ZedGraph.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\ZedGraph.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\sk\ZedGraph.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\sv\ZedGraph.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\tr\ZedGraph.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csprojAssemblyReference.cache
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.exe.config
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Add_User.resources
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.AddSubject.resources
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Class_Schedule.resources
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.EnrollmentList.resources
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Form1.resources
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.LoginPage.resources
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RecogniseFace.resources
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RegisterDetect.resources
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.MainMenu.resources
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.MiscTabForms.resources
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Properties.Enrollment_list.resources
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Properties.Resources.resources
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RegisterCaptureImage.resources
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RegistrationNew.resources
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Reports.resources
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Resources.ADDSubjectsMain.resources
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.SecondScreen.resources
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.System_Users.resources
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csproj.GenerateResource.cache
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csproj.CoreCompileInputs.cache
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csproj.CopyComplete
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.exe
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.pdb
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\EnvDTE.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\stdole.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\EnvDTE80.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\VSLangProj.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\VSLangProj80.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Newtonsoft.Json.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.MSXML.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.Build.Framework.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\VSLangProj2.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\finally\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Recognize_Face_Out.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\EnvDTE.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\stdole.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\EnvDTE80.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\VSLangProj.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\VSLangProj80.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.MSXML.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.Build.Framework.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\VSLangProj2.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Recognize_Face_Out.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RecogniseFaceOut.resources
+C:\Saja\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.ViewEnrollmentPerSubject.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\concrt140.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\cvextern.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\msvcp140.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\opencv_ffmpeg343_64.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\vcruntime140.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\concrt140.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\cvextern.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\msvcp140.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\opencv_ffmpeg343.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\vcruntime140.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\haarcascade_frontalface_default.xml
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\1.1 FDCForLabMonitoringSystem.exe.config
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\1.1 FDCForLabMonitoringSystem.exe
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\1.1 FDCForLabMonitoringSystem.pdb
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\MySql.Data.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ZedGraph.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\EnvDTE.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Google.Protobuf.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\stdole.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\EnvDTE80.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.Build.Tasks.Core.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\VSLangProj.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\VSLangProj80.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Newtonsoft.Json.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\System.Threading.Tasks.Dataflow.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.MSXML.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.Build.Utilities.Core.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.Build.Framework.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\VSLangProj2.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.CV.xml
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.CV.UI.xml
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.Util.xml
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\MySql.Data.xml
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ZedGraph.xml
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\ZedGraph.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\ZedGraph.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\ZedGraph.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\hu\ZedGraph.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\ZedGraph.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\ZedGraph.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\ZedGraph.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\ZedGraph.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\sk\ZedGraph.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\sv\ZedGraph.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\tr\ZedGraph.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csprojAssemblyReference.cache
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.exe.config
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Add_User.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.AddSubject.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Class_Schedule.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.EnrollmentList.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Form1.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.LoginPage.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RecogniseFace.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RecogniseFaceOut.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Recognize_Face_Out.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RegisterDetect.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.MainMenu.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.MiscTabForms.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Properties.Enrollment_list.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Properties.Resources.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RegisterCaptureImage.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RegistrationNew.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Reports.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Resources.ADDSubjectsMain.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.SecondScreen.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.System_Users.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.ViewEnrollmentPerSubject.resources
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csproj.GenerateResource.cache
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csproj.CoreCompileInputs.cache
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csproj.CopyComplete
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.exe
+G:\FABS PRINT THIS PLEASE\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.pdb
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\concrt140.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\cvextern.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\msvcp140.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\opencv_ffmpeg343_64.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x64\vcruntime140.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\concrt140.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\cvextern.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\msvcp140.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\opencv_ffmpeg343.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\x86\vcruntime140.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\haarcascade_frontalface_default.xml
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\1.1 FDCForLabMonitoringSystem.exe.config
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\1.1 FDCForLabMonitoringSystem.exe
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\1.1 FDCForLabMonitoringSystem.pdb
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\MySql.Data.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ZedGraph.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\EnvDTE.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Google.Protobuf.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\stdole.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\EnvDTE80.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\VSLangProj.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\VSLangProj80.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Newtonsoft.Json.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.MSXML.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.Build.Framework.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\VSLangProj2.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.CV.xml
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.CV.UI.xml
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Emgu.Util.xml
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\MySql.Data.xml
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ZedGraph.xml
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\de\ZedGraph.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\es\ZedGraph.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\fr\ZedGraph.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\hu\ZedGraph.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\it\ZedGraph.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ja\ZedGraph.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\pt\ZedGraph.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\ru\ZedGraph.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\sk\ZedGraph.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\sv\ZedGraph.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\tr\ZedGraph.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csprojAssemblyReference.cache
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.exe.config
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Add_User.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.AddSubject.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Class_Schedule.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.EnrollmentList.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Form1.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.LoginPage.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RecogniseFace.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RecogniseFaceOut.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Recognize_Face_Out.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RegisterDetect.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.MainMenu.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.MiscTabForms.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Properties.Enrollment_list.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Properties.Resources.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RegisterCaptureImage.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.RegistrationNew.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Reports.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.Resources.ADDSubjectsMain.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.SecondScreen.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.System_Users.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.ViewEnrollmentPerSubject.resources
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csproj.GenerateResource.cache
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csproj.CoreCompileInputs.cache
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.csproj.CopyComplete
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.exe
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\1.1 FDCForLabMonitoringSystem.pdb
+D:\Feb 27 2019 Update Thesis\1.1 FDCForLabMonitoringSystem\1.1 FDCForLabMonitoringSystem\obj\Debug\_1._1_FDCForLabMonitoringSystem.ReportAttendance.resources
